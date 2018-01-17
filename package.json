@@ -1,6 +1,6 @@
 {
-  "name": "bitsharesjs",
-  "version": "1.4.0",
+  "name": "neuronjs-js",
+  "version": "1.0.0",
   "description": "Pure JavaScript Bitshares library for node.js and browsers.",
   "browser": {
     "ws": false,
@@ -29,18 +29,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bitshares/bitsharesjs.git"
+    "url": "git+https://github.com/qwertvasilii/neuronjs"
   },
-  "author": "Sigve Kvalsvik <bitsharesblocks@gmail.com> (https://github.com/svk31)",
-  "contributors": [
-    "James Calfee <james@jcalfee.info> (https://github.com/jcalfee/)",
-    "Daniel Larimer <dan@cryptonomex.com> (https://github.com/bytemaster/)",
-    "Valentine Zavgorodnev <valentine.zavgorodnev@gmail.com> (https://github.com/valzav/)"
-  ],
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/bitshares/bitsharesjs/issues"
-  },
   "engines": {
     "node": ">= 6.0.0"
   },
@@ -51,7 +42,7 @@
     "babel-preset-es2015": "^6.18.0",
     "babel-preset-stage-1": "^6.16.0",
     "bigi": "^1.4.2",
-    "bitsharesjs-ws": "^1.3.1",
+    "neuronjs-ws": "^1.0.0",
     "bs58": "^4.0.1",
     "bytebuffer": "^5.0.1",
     "create-hash": "^1.1.3",
